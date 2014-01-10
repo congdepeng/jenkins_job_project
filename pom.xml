@@ -60,18 +60,7 @@
                         </goals>
                     </execution>
                 </executions>
-                <!--<executions>-->
-                <!--<execution>-->
-                <!--<id>generate-report</id>-->
-                <!--<phase>clean</phase>-->
-                <!--<goals>-->
-                <!--<goal>cobertura</goal>-->
-                <!--</goals>-->
-                <!--</execution>-->
-                <!--</executions>-->
-
             </plugin>
-
 
         </plugins>
     </build>
